@@ -1,4 +1,4 @@
 ### Hi there 👋
 ### 🔭 Am i a good boy?
-![](tenor.gif)
+<div class='text-center'>![](tenor.gif)</div>
 
