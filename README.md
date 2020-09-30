@@ -1,4 +1,4 @@
 ### Hi there 👋
-### 🔭 Can i do it?
+### 🔭 Am i a good boy?
 ![](tenor.gif)
 
